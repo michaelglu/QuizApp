@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "673514226720",
+    "firebase_url": "https://quizapp-4ca69.firebaseio.com",
+    "project_id": "quizapp-4ca69",
+    "storage_bucket": "quizapp-4ca69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673514226720:android:35ddd1a8ae268f03",
+        "android_client_info": {
+          "package_name": "glum.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673514226720-6scsuum1121lg11lqgrc2enf08s7onm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6eU7xP_yAWUlga0J9mtvbcCx-1Y7qXCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
